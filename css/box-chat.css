@@ -205,19 +205,19 @@
 	}
 }
  .pic.stark {
-	 background-image: url('images/Anh.png');
+	 background-image: url('../images/Anh.png');
 }
  .pic.banner {
-	 background-image: url('images/Dang.png');
+	 background-image: url('../images/Dang.png');
 }
  .pic.thor {
-	 background-image: url('images/Myself.jpg');
+	 background-image: url('../images/Myself.jpg');
 }
  .pic.danvers {
-	 background-image: url('images/Trinh.png');
+	 background-image: url('../images/Trinh.png');
 }
  .pic.rogers {
-	 background-image: url('images/anonymous.svg.png');
+	 background-image: url('../images/anonymous.svg.png');
 }
 
 .open-button {
