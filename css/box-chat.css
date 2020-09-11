@@ -10,9 +10,8 @@
  .center {
      display: none;
 	 position: fixed;
-	 top: 57%;
-	 left: calc(60% + 12rem);
-	 transform: translate(-10%, -50%);
+	 bottom: 40px;
+	 right: 30px;
 }
  .pic {
 	 width: 60px;
